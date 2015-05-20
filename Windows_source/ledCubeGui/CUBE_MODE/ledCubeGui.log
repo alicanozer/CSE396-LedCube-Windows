@@ -1,0 +1,78 @@
+﻿Build started 15.05.2015 10:56:07.
+     1>Project "C:\Users\Can\Documents\CSE396-LedCube\Source\UserInterface\ledCubeMainGui\ledCubeGui\ledCubeGui.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\External\include /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D CUBE_MODE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"CUBE_MODE\\" /Fd"CUBE_MODE\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(186): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(187): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(238): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(239): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(320): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(342): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(510): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(521): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(532): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(607): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(611): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(626): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(630): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(645): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(649): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(685): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(708): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(844): warning C4244: '=' : conversion from 'const irr::f32' to 'int', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(851): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(879): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(879): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(879): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(945): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(947): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(949): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(987): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(988): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(989): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1130): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1137): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1194): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1211): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1231): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1234): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1235): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1245): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1247): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1257): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1258): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1265): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1271): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1276): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1286): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1296): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1305): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1349): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1359): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1368): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1511): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1523): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1583): warning C4305: 'argument' : truncation from 'int' to 'bool'
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1674): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1675): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1676): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1723): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1745): warning C4305: 'argument' : truncation from 'double' to 'const irr::f32'
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1813): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1814): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\can\documents\cse396-ledcube\source\userinterface\ledcubemaingui\ledcubegui\main.cpp(1815): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Can\Documents\CSE396-LedCube\Source\UserInterface\ledCubeMainGui\CUBE_MODE\ledCubeGui.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\External\lib\Win32-visualstudio" "Irrlicht.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Can\Documents\CSE396-LedCube\Source\UserInterface\ledCubeMainGui\CUBE_MODE\ledCubeGui.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Can\Documents\CSE396-LedCube\Source\UserInterface\ledCubeMainGui\CUBE_MODE\ledCubeGui.lib" /MACHINE:X86 CUBE_MODE\Editor.obj
+         CUBE_MODE\main.obj
+         CUBE_MODE\MastEventReceiver.obj
+         CUBE_MODE\rs232.obj
+         CUBE_MODE\SerialCom.obj
+         ledCubeGui.vcxproj -> C:\Users\Can\Documents\CSE396-LedCube\Source\UserInterface\ledCubeMainGui\CUBE_MODE\ledCubeGui.exe
+     1>Done Building Project "C:\Users\Can\Documents\CSE396-LedCube\Source\UserInterface\ledCubeMainGui\ledCubeGui\ledCubeGui.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

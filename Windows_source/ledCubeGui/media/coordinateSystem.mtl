@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd coordinateSystem/Metal_Aluminum_Anodized.jpg
+
+newmtl _0020_Red_1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Blinds_Wood_Light
+Ka 0.000000 0.000000 0.000000
+Kd 0.607843 0.392157 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd coordinateSystem/Blinds_Wood_Light.jpg
+
