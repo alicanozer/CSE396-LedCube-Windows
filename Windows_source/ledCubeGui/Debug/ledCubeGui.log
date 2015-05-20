@@ -1,148 +1,152 @@
-﻿Build started 15.05.2015 11:46:18.
-     1>Project "E:\PROJE2\Windows_source\ledCubeGui\ledCubeGui.vcxproj" on node 2 (Build target(s)).
+﻿Build started 20.05.2015 16:32:14.
+     1>Project "C:\Users\User\Documents\GitHub\LedCube-Windows\Windows_source\ledCubeGui\ledCubeGui.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I..\External\include /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Editor.cpp main.cpp MastEventReceiver.cpp rs232.cpp SerialCom.cpp
          SerialCom.cpp
          rs232.cpp
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(242): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(242): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(244): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(246): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(246): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(248): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(248): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(250): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(252): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(254): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(256): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(258): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(258): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(260): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(260): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(262): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(264): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
-     1>e:\proje2\windows_source\ledcubegui\rs232.cpp(266): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\rs232.cpp(266): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
          MastEventReceiver.cpp
          main.cpp
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(320): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(342): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(510): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(521): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(532): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(607): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(611): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(626): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(630): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(645): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(649): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(685): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(708): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(844): warning C4244: '=' : conversion from 'const irr::f32' to 'int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(851): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(879): warning C4101: 'i' : unreferenced local variable
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(879): warning C4101: 'k' : unreferenced local variable
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(879): warning C4101: 'j' : unreferenced local variable
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(945): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(947): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(949): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(987): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(988): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(989): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1130): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1137): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1144): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1194): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1211): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1231): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1234): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1235): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1245): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1247): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1257): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1258): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1265): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1271): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1276): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1286): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1296): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1305): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1349): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1359): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1368): warning C4018: '<' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1511): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1523): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1583): warning C4305: 'argument' : truncation from 'int' to 'bool'
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1674): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1675): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1676): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1723): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1745): warning C4305: 'argument' : truncation from 'double' to 'const irr::f32'
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1813): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1814): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\main.cpp(1815): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(186): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(187): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(238): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(239): warning C4309: 'argument' : truncation of constant value
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(320): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(342): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(510): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(521): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(532): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(607): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(611): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(626): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(630): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(645): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(649): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(685): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(708): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(844): warning C4244: '=' : conversion from 'const irr::f32' to 'int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(851): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(879): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(879): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(879): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(945): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(947): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(949): warning C4244: 'argument' : conversion from 'double' to 'unsigned int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(987): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(988): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(989): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1130): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1137): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1144): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1194): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1211): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1231): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1234): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1235): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1245): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1247): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1257): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1258): warning C4244: '=' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1265): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1271): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1276): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1286): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1296): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1305): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1349): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1359): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1368): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1511): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1523): warning C4305: 'argument' : truncation from 'double' to 'irr::f32'
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1583): warning C4305: 'argument' : truncation from 'int' to 'bool'
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1674): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1675): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1676): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1723): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1745): warning C4305: 'argument' : truncation from 'double' to 'const irr::f32'
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1813): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1814): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\main.cpp(1815): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
          Editor.cpp
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(235): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(240): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(254): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(334): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(342): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(235): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(240): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(249): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(254): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(334): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(342): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(528) : see declaration of 'mbstowcs'
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(362): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(366): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(370): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(374): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(378): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(382): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(389): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(395): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(401): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(405): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(362): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(366): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(370): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(374): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(378): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(382): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(389): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(395): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(401): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(405): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdlib.h(528) : see declaration of 'mbstowcs'
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(432): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(437): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(458): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(464): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(470): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(472): warning C4018: '<=' : signed/unsigned mismatch
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(474): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(488): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(494): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(499): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(503): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(507): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(511): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(532): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(533): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(534): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(535): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(536): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(537): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(539): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(540): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(541): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(542): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(543): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
-     1>e:\proje2\windows_source\ledcubegui\editor.cpp(544): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(432): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(437): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(458): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(464): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(470): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(472): warning C4018: '<=' : signed/unsigned mismatch
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(474): warning C4244: 'argument' : conversion from 'double' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(488): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(494): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(499): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(503): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(507): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(511): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(532): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(533): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(534): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(535): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(536): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(537): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(539): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(540): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(541): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(542): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(543): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
+     1>c:\users\user\documents\github\ledcube-windows\windows_source\ledcubegui\editor.cpp(544): warning C4244: 'argument' : conversion from 'int' to 'irr::f32', possible loss of data
          Generating Code...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\PROJE2\Windows_source\Debug\ledCubeGui.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\External\lib\Win32-visualstudio" "Irrlicht.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\PROJE2\Windows_source\Debug\ledCubeGui.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\PROJE2\Windows_source\Debug\ledCubeGui.lib" /MACHINE:X86 Debug\Editor.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\GitHub\LedCube-Windows\Windows_source\Debug\ledCubeGui.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\External\lib\Win32-visualstudio" "Irrlicht.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Documents\GitHub\LedCube-Windows\Windows_source\Debug\ledCubeGui.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\GitHub\LedCube-Windows\Windows_source\Debug\ledCubeGui.lib" /MACHINE:X86 Debug\Editor.obj
          Debug\main.obj
          Debug\MastEventReceiver.obj
          Debug\rs232.obj
          Debug\SerialCom.obj
-         ledCubeGui.vcxproj -> E:\PROJE2\Windows_source\Debug\ledCubeGui.exe
-     1>Done Building Project "E:\PROJE2\Windows_source\ledCubeGui\ledCubeGui.vcxproj" (Build target(s)).
+         ledCubeGui.vcxproj -> C:\Users\User\Documents\GitHub\LedCube-Windows\Windows_source\Debug\ledCubeGui.exe
+     1>Done Building Project "C:\Users\User\Documents\GitHub\LedCube-Windows\Windows_source\ledCubeGui\ledCubeGui.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:06.24
+Time Elapsed 00:00:03.01
